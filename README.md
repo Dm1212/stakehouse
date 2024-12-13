@@ -1,3 +1,3 @@
 # stakehouse
-print('bye dear Jesi')
+print('Good bye dear Jesi')
 
